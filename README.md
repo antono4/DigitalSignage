@@ -1,5 +1,8 @@
 # DigitalSignage
 
+> **Created by Antono**
+
+
 DigitalSignage is a cloud application designed to display dynamic content across TV screens shown within a business or school.
 
 If you notice a bug or issue please file a report on the [issue section](https://github.com/painejake/DigitalSignage/issues)

@@ -1,2 +1,30 @@
-Last updated: 2026-09-13 05:39:55 WIB
-Last updated: 2026-09-13 05:43:56 WIB
+# DigitalSignage
+
+
+
+## 📋 Overview
+
+This repository contains **281 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-13 06:08:52 WIB*
